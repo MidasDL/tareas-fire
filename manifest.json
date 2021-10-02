@@ -1,0 +1,26 @@
+{
+    "short_name": "Tareas",
+    "name": "Lista de tareas para organizarte mejor",
+    "icons": [
+        {
+            "src": "/images/tareas.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#00897b",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#00897b",
+    "shortcuts": [
+        {
+            "name": "Agregar una tarea",
+            "short_name": "Agregar",
+            "description": "Selecciona esta opción para Agregar una tarea",
+            "url": "/index.html",
+            "icons": [{ "src": "/images/tareas.png", "sizes": "256x256" }]
+        }
+    ],
+    "description": "Esta es una app hecha con firebase para organizar tareas"
+}
