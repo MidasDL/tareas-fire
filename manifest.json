@@ -3,7 +3,7 @@
     "name": "Lista de tareas para organizarte mejor",
     "icons": [
         {
-            "src": "tareas-fire/images/tareas.png",
+            "src": "/tareas-fire/images/tareas.png",
             "type": "image/png",
             "sizes": "256x256"
         }
@@ -18,7 +18,7 @@
             "name": "Agregar una tarea",
             "short_name": "Agregar",
             "description": "Selecciona esta opción para Agregar una tarea",
-            "url": "tareas-fire/index.html",
+            "url": "/tareas-fire/index.html",
             "icons": [{ "src": "tareas-fire/images/tareas.png", "sizes": "256x256" }]
         }
     ],
